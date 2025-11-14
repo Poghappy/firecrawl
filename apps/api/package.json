@@ -93,7 +93,7 @@
     "@sentry/profiling-node": "^9.40.0",
     "@supabase/supabase-js": "^2.52.0",
     "@types/ws": "^8.5.12",
-    "ai": "^4.3.4",
+    "ai": "^5.0.52",
     "ajv": "^8.16.0",
     "async": "^3.2.5",
     "async-mutex": "^0.5.0",
