@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@mendable/firecrawl-js": "^4.3.4",
-    "axios": "^1.12.2",
+    "axios": "^1.13.5",
     "firecrawl": "^4.3.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
